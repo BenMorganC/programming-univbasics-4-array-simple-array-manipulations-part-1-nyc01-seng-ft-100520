@@ -2,6 +2,22 @@ def using_push(array, string)
     array.push(string)
 end
 
-def (array, string)
+def using_unshift(array, string)
+    array.unshift(string)
+end
+
+def using_pop(array, string)
+  
+end
+
+def using_(array, string)
+  
+end
+
+def using_(array, string)
+  
+end
+
+def using_(array, string)
   
 end
